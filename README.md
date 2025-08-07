@@ -1,4 +1,6 @@
-## Hi there 👋
+## Meu nome é Beatriz Muller
+  -Sou aluna do 1c
+  -Meu números é 03
 
 <!--
 **beatrizmuller15-lab/beatrizmuller15-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
